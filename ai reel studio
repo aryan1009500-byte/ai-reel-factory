@@ -272,5 +272,5 @@ git add .
 git commit -m "Initial commit - TrendReel AI Final Version"
 
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/trendreel-pro.git
+git remote add origin https://github.com/aryan1009500-byte/trendreel-pro.git
 git push -u origin main
